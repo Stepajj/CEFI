@@ -11301,6 +11301,7 @@ textarea.form-control-lg {
 }
 
 header.masthead {
+
   position: relative;
   background-color: #343a40;
   background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
@@ -11335,7 +11336,7 @@ header.masthead h1, header.masthead .h1 {
   padding: 3rem;
 }
 .showcase .showcase-img {
-  min-height: 30rem;
+  min-height: 23rem;
   background-size: cover;
 }
 @media (min-width: 768px) {
@@ -11379,3 +11380,4 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
